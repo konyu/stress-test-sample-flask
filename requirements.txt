@@ -1,0 +1,16 @@
+certifi==2019.9.11
+click==7.1.2
+Flask==1.1.2
+Flask-Login==0.5.0
+itsdangerous==1.1.0
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+numpy==1.18.1
+pandas==1.0.1
+pipenv==2018.11.26
+python-dateutil==2.8.1
+pytz==2019.3
+six==1.14.0
+ven==16.7.8
+virtualenv-clone==0.5.3
+Werkzeug==1.0.1
