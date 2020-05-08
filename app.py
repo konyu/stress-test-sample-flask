@@ -1,3 +1,5 @@
+# ref: https://liginc.co.jp/415333
+
 from flask import Flask, render_template, redirect, url_for, request
 from flask_login import LoginManager, logout_user, login_required, login_user
 from user import User
