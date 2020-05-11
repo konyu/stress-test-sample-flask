@@ -2,7 +2,7 @@
 <head></head>
 <body>
     <h1>ログイン必須ページ</h1>
-     <form action="post_from_form" method="post">
+     <form action="{{ url_for('post_from_form') }}" method="post">
          <div>
             value <input type="text" name="value">
          </div>

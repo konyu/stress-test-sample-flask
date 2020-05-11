@@ -26,3 +26,8 @@ htmlcov/
 # virtualenv
 venv/
 ENV/
+
+# zappa setting
+zappa_settings.json
+
+artillery-test/script.yml
